@@ -47,6 +47,6 @@ $lang['delete_successful'] 		 	 = 'Pengguna Telah Dihapus';
 $lang['delete_unsuccessful'] 		 	 = 'Tidak Dapat Menghapus Pengguna';
 
 // Email Subjects - TODO Please Translate
-$lang['email_forgotten_password_subject']    = 'Forgotten Password Verification';
-$lang['email_new_password_subject']          = 'New Password';
-$lang['email_activation_subject']            = 'Account Activation';
+$lang['email_forgotten_password_subject']    = 'Verifikasi Password yang anda lupakan';
+$lang['email_new_password_subject']          = 'Password Baru';
+$lang['email_activation_subject']            = 'Aktifasi Akun';
