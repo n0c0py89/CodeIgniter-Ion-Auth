@@ -16,7 +16,7 @@
 *
 * Created:  03.09.2013
 *
-* Description:  English language file for Ion Auth example views
+* Description: contoh view Ion Auth Bahasa Indonesia
 *
 */
 
