@@ -41,8 +41,8 @@ $lang['index_email_th']          = 'Email';
 $lang['index_groups_th']         = 'Grup';
 $lang['index_status_th']         = 'Status';
 $lang['index_action_th']         = 'Aksi';
-$lang['index_active_link']       = 'Active';
-$lang['index_inactive_link']     = 'Inactive';
+$lang['index_active_link']       = 'Aktif';
+$lang['index_inactive_link']     = 'Nonaktif';
 $lang['index_create_user_link']  = 'Buat user baru';
 $lang['index_create_group_link'] = 'Buat grup baru';
 
